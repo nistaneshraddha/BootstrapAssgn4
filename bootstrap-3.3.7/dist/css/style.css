@@ -1,0 +1,16 @@
+.navbar-default {
+    background-color: #65bdb5;
+    border-color: #e7e7e7;
+}
+
+.navbar-default .navbar-brand {
+    color: #000;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #65bdb5;
+}
+
+.collapse navbar-collapse {
+    right: top;
+}
